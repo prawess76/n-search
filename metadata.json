@@ -1,0 +1,6 @@
+{
+  "name": "남양주시청 직원 연락처 검색기",
+  "description": "남양주시청의 공식 부서, 직원, 담당 업무 정보를 검색하고 연락처와 즐겨찾기를 지원하는 간편 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
